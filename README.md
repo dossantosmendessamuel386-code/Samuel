@@ -1,2 +1,0 @@
-# Samuel
-Site TripSmart
